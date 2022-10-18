@@ -1,0 +1,1 @@
+console.log(("John Smith...").replace(/[A-Za-z0-9]/gm, '') !== '')
